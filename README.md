@@ -1,6 +1,6 @@
 # Client History Management System
 
-![Project Logo](link_to_your_logo) <!-- Optional: Add a logo or image -->
+
 
 ## Overview
 
